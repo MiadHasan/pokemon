@@ -1,2 +1,3 @@
 # pokemon
 Trying to learn merge...
+change for conflict
