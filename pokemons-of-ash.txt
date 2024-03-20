@@ -8,12 +8,22 @@
 
 5. Pidgeot: Originally a Pidgeotto, this Flying-type Pokémon evolved under Ash's care. Pidgeot is known for its speed and aerial agility, often serving as Ash's mode of transportation in the early stages of his journey.
 
-6. Snorlax: Ash captured Snorlax in the Orange Islands. This Normal-type Pokémon is known for its immense size and appetite, as well as its formidable strength in battle.
+6. Bulbasaur: Ash caught Bulbasaur in the Kanto region. It is a Grass/Poison-type Pokémon and is known for its strong sense of leadership and its caring nature towards other Pokémon.
 
-7. Heracross: Ash caught Heracross in the Johto region. This Bug/Fighting-type Pokémon is known for its determination and powerful fighting moves.
+7. Squirtle: Another one of Ash's original Pokémon captured in the Kanto region, Squirtle is a Water-type Pokémon known for its mischievous personality and strong sense of justice.
 
-8. Sceptile: Originally a Treecko, this Grass-type Pokémon evolved into Grovyle and then into Sceptile during Ash's journey in the Hoenn region. Sceptile is known for its speed, agility, and powerful Grass-type moves.
+8. Pidgeot: Originally a Pidgeotto, this Flying-type Pokémon evolved under Ash's care. Pidgeot is known for its speed and aerial agility, often serving as Ash's mode of transportation in the early stages of his journey.
 
-9. Infernape: Ash's Chimchar evolved into Monferno and then into Infernape during his journey in the Sinnoh region. Infernape is a Fire/Fighting-type Pokémon known for its fiery spirit and powerful fighting moves.
+9. Snorlax: Ash captured Snorlax in the Orange Islands. This Normal-type Pokémon is known for its immense size and appetite, as well as its formidable strength in battle.
 
-10. Greninja: Ash's Froakie evolved into Frogadier and then into Greninja during his journey in the Kalos region. Greninja is a Water/Dark-type Pokémon known for its speed, agility, and unique ability, Battle Bond.
+10. Heracross: Ash caught Heracross in the Johto region. This Bug/Fighting-type Pokémon is known for its determination and powerful fighting moves.
+
+11. Snorlax: Ash captured Snorlax in the Orange Islands. This Normal-type Pokémon is known for its immense size and appetite, as well as its formidable strength in battle.
+
+12. Heracross: Ash caught Heracross in the Johto region. This Bug/Fighting-type Pokémon is known for its determination and powerful fighting moves.
+
+13. Sceptile: Originally a Treecko, this Grass-type Pokémon evolved into Grovyle and then into Sceptile during Ash's journey in the Hoenn region. Sceptile is known for its speed, agility, and powerful Grass-type moves.
+
+14. Infernape: Ash's Chimchar evolved into Monferno and then into Infernape during his journey in the Sinnoh region. Infernape is a Fire/Fighting-type Pokémon known for its fiery spirit and powerful fighting moves.
+
+15. Greninja: Ash's Froakie evolved into Frogadier and then into Greninja during his journey in the Kalos region. Greninja is a Water/Dark-type Pokémon known for its speed, agility, and unique ability, Battle Bond.
